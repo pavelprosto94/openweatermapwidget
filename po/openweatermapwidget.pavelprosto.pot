@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openweatermapwidget.pavelprosto package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: openweatermapwidget.pavelprosto\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 15:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/ExportPage.qml:34
+msgid "Select your Home Screen"
+msgstr ""
+
+#: ../qml/Main.qml:49 openweatermapwidget.desktop.in.h:1
+msgid "Weather widget"
+msgstr ""
+
+#: ../qml/Main.qml:96
+msgid "<b>OpenWeatherMap widget for uHome.</b>"
+msgstr ""
+
+#: ../qml/Main.qml:104
+msgid ""
+"Add this widget to your home screen and stay up to date with the current "
+"weather."
+msgstr ""
+
+#: ../qml/Main.qml:112
+msgid ""
+"OpenWeatherMap is an online service, owned by OpenWeather Ltd, that provides "
+"global weather data via API, including current weather data, forecasts, "
+"nowcasts and historical weather data for any geographical location."
+msgstr ""
+
+#: ../qml/Main.qml:120
+msgid ""
+"<b>You can uninstall this application after successfully installing the "
+"widget.<b>"
+msgstr ""
+
+#: ../qml/Main.qml:135
+msgid "Install widget"
+msgstr ""

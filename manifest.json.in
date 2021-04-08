@@ -1,0 +1,16 @@
+{
+    "name": "openweatermapwidget.pavelprosto",
+    "description": "OpenWeatherMap widget for uHome",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Weather widget",
+    "hooks": {
+        "openweatermapwidget": {
+            "apparmor": "openweatermapwidget.apparmor",
+            "desktop":  "openweatermapwidget.desktop",
+            "content-hub": "src/content-hub.json"
+        }
+    },
+    "version": "0.5.0",
+    "maintainer": "Pavel Prosto <pavelprosto94@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
