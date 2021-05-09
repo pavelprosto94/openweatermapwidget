@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openweatermapwidget.pavelprosto package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openweatermapwidget.pavelprosto\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 15:16+0000\n"
+"PO-Revision-Date: 2021-05-09 14:29+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: ../qml/ExportPage.qml:34
+msgid "Select your Home Screen"
+msgstr "Kies je bureaublad"
+
+#: ../qml/Main.qml:49 openweatermapwidget.desktop.in.h:1
+msgid "Weather widget"
+msgstr "Weerwidget"
+
+#: ../qml/Main.qml:96
+msgid "<b>OpenWeatherMap widget for uHome.</b>"
+msgstr "<b>OpenWeatherMap-widget voor uHome.</b>"
+
+#: ../qml/Main.qml:104
+msgid ""
+"Add this widget to your home screen and stay up to date with the current "
+"weather."
+msgstr ""
+"Voeg deze widget toe aan je bureaublad om de huidige weersomstandigheden te "
+"volgen."
+
+#: ../qml/Main.qml:112
+msgid ""
+"OpenWeatherMap is an online service, owned by OpenWeather Ltd, that provides "
+"global weather data via API, including current weather data, forecasts, "
+"nowcasts and historical weather data for any geographical location."
+msgstr ""
+"OpenWeatherMap is een online-dienst van OpenWeather Ltd, die wereldwijde "
+"weergegevens aanbiedt middels een api. Deze gegevens omvatten de huidige "
+"weersomstandigheden, voorspellingen en historische weergegevens van elke "
+"geografische locatie."
+
+#: ../qml/Main.qml:120
+msgid ""
+"<b>You can uninstall this application after successfully installing the "
+"widget.<b>"
+msgstr "<b>Als je de widget hebt toegevoegd, kun je deze app verwijderen.</b>"
+
+#: ../qml/Main.qml:135
+msgid "Install widget"
+msgstr "Widget toevoegen"
